@@ -18,6 +18,5 @@ The menu bar of the initial window contains the <i>Image Proc</i> element, dedic
 </li>
 <li><i>Copy Header</i> window: after loading a reference image, broadcasts the header to a list of corrupted images.
 </li>
-
-
+</u>
 For questions, requesting assistance, suggesting enhancements or new ideas as well as for reporting bugs, please open an <a href="https://github.com/lucilla7/MSKregPy/issues">issue</a> to contact us.
