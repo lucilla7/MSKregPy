@@ -19,4 +19,11 @@ The menu bar of the initial window contains the <i>Image Proc</i> element, dedic
 <li><i>Copy Header</i> window: after loading a reference image, broadcasts the header to a list of corrupted images.
 </li>
 </u>
+
 For questions, requesting assistance, suggesting enhancements or new ideas as well as for reporting bugs, please open an <a href="https://github.com/lucilla7/MSKregPy/issues">issue</a> to contact us.
+
+
+# Cite
+If you used the present code for you projects, please cite:
+
+Fontana, L.; Mastropietro, A.; Scalco, E.; Peruzzo, D.; Beretta, E.; Strazzer, S.; Arrigoni, F.; Rizzo, G. Multi-Steps Registration Protocol for Multimodal MR Images of Hip Skeletal Muscles in a Longitudinal Study. <i>Appl. Sci.</i> <b>2020<b>, <i>10</i>, 7823 [<a href="https://doi.org/10.3390/app10217823">Crossref</a>] 
