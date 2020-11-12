@@ -1,5 +1,5 @@
 # MSKregPy
-MSKregPy is a collection of algorithms and GUI for muscolo-skeletal image processing and registration.
+MSKregPy is a collection of algorithms and GUI for muscoloskeletal image processing and registration.
 
 wxPython library was employed to develop the GUI, which is composed by two main windows – initial window and registration window – and 5 secondary frames for support functionalities. 
 3D images are presented with three views – axial, coronal and sagittal – with three sliders to adjust maximum value, minimum value, and gamma correction. 
@@ -26,4 +26,4 @@ For questions, requesting assistance, suggesting enhancements or new ideas as we
 # Cite
 If you used the present code for you projects, please cite:
 
-Fontana, L.; Mastropietro, A.; Scalco, E.; Peruzzo, D.; Beretta, E.; Strazzer, S.; Arrigoni, F.; Rizzo, G. Multi-Steps Registration Protocol for Multimodal MR Images of Hip Skeletal Muscles in a Longitudinal Study. <i>Appl. Sci.</i> <b>2020</b>, <i>10</i>, 7823 [<a href="https://doi.org/10.3390/app10217823">Crossref</a>] 
+Fontana, L.; Mastropietro, A.; Scalco, E.; Peruzzo, D.; Beretta, E.; Strazzer, S.; Arrigoni, F.; Rizzo, G. Multi-Steps Registration Protocol for Multimodal MR Images of Hip Skeletal Muscles in a Longitudinal Study. <i>Appl. Sci.</i> <b>2020</b>, <i>10</i>, 7823 [<a href="https://doi.org/10.3390/app10217823">Crossref</a>] - [<a href="https://scholar.google.com/scholar_lookup?title=Multi-Steps+Registration+Protocol+for+Multimodal+MR+Images+of+Hip+Skeletal+Muscles+in+a+Longitudinal+Study&volume=10&doi=10.3390%2Fapp10217823&journal=Applied+Sciences&publication_year=2020&author=Lucia+Fontana&author=Alfonso+Mastropietro&author=Elisa+Scalco&author=Denis+Peruzzo&author=Elena+Beretta&author=Sandra+Strazzer&author=Filippo+Arrigoni&author=Giovanna+Rizzo">Google Scholar</a>]
